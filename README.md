@@ -1,2 +1,7 @@
-# homework-2-tonymngo
-homework-2-tonymngo created by GitHub Classroom
+# homework-2
+
+Name: Tung Ngo
+
+UNI: tn2364
+
+
